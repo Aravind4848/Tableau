@@ -20,3 +20,10 @@ Dashboard-2
 
 Dashboard-3
 ![Screenshot 2025-01-17 125057](https://github.com/user-attachments/assets/b5d7a717-3430-4257-9c04-6b7751b7bcd6)
+
+## Final Results
+- Wildlife strikes pose significant safety and financial risks to aviation.   
+- Key factors include: migration patterns, airport location, and lack of pilot warnings.
+- Addressing these challenges requires a multi-faceted approach, including improved detection systems, habitat management, and pilot training.
+
+

@@ -8,7 +8,9 @@ reduction.
 
 ## Dashboard Interaction <br>
 <a href="https://github.com/Aravind4848/Tableau/blob/main/Screenshot%202025-01-17%20124752.png"> View Dashboard 1 </a><br>
-<a href="https://github.com/Aravind4848/Tableau/blob/main/Screenshot%202025-01-17%20121234.png"> View Dashboard 2 </a>
+<a href="https://github.com/Aravind4848/Tableau/blob/main/Screenshot%202025-01-17%20124816.png"> View Dashboard 2 </a><br>
+<a href="https://github.com/Aravind4848/Tableau/blob/main/Screenshot%202025-01-17%20124816.png"> View Dashboard 3 </a><br>
+
 ## Dashboards
 Dashboard-1
 
